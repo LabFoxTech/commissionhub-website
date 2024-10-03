@@ -79,7 +79,7 @@ export function Page() {
                 Transparent Commissions, Trustworthy Transactions
               </h1>
               <p className="text-lg mb-6 text-gray-600">
-                At CommissionHub, we believe in transparency and trust when it comes to buying a home. That&apos;s why we&apos;ve created a platform where buyers and sellers can see everything clearly, especially the commission rates of buyer agents. No hidden fees, no surprise charges—just straightforward, verified information that empowers you to make confident decisions.
+                At CommissionHub, we believe in transparency and trust when it comes to buying a home. That's why we've created a platform where buyers and sellers can see everything clearly, especially the commission rates of buyer agents. No hidden fees, no surprise charges—just straightforward, verified information that empowers you to make confident decisions.
               </p>
               <Button size="lg" className="bg-gradient-to-r from-[#353FEC] to-[#C03BD4] text-white px-8 py-3 rounded-full">
                 Download CommissionHub Today
@@ -136,7 +136,7 @@ export function Page() {
         <section id="why-choose-us" className="bg-gray-100 py-12 md:py-24">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">Why Choose CommissionHub?</h2>
-            <p className="text-center text-gray-600 mb-12">It&apos;s about finding a place to call home or a space to grow your business</p>
+            <p className="text-center text-gray-600 mb-12">It's about finding a place to call home or a space to grow your business</p>
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/2 mb-8 md:mb-0">
                 <div className="relative">
@@ -156,8 +156,8 @@ export function Page() {
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-purple-600"><path d="M14 9a2 2 0 0 1-2 2H6l-4 4V4c0-1.1.9-2 2-2h8a2 2 0 0 1 2 2v5Z" /><path d="M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1" /></svg>
                     </div>
                     <div className="ml-4">
-                      <h3 className="text-xl font-semibold mb-2">Know What You&apos;re Paying For</h3>
-                      <p className="text-gray-600">Struggle to find ideal With CommissionHub, you can see the commission rates up front before making any decisions. Our platform provides verified commission rates, ensuring you know exactly how much your buyer&apos;s agent is earning and how it impacts your transaction online.</p>
+                      <h3 className="text-xl font-semibold mb-2">Know What You're Paying For</h3>
+                      <p className="text-gray-600">Struggle to find ideal With CommissionHub, you can see the commission rates up front before making any decisions. Our platform provides verified commission rates, ensuring you know exactly how much your buyer's agent is earning and how it impacts your transaction online.</p>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -175,7 +175,7 @@ export function Page() {
                     </div>
                     <div className="ml-4">
                       <h3 className="text-xl font-semibold mb-2">Empowered Home Buyer</h3>
-                      <p className="text-gray-600">Buying a home is one of the biggest decisions you&apos;ll make, and you deserve to know where every dollar goes. Our app makes sure you&apos;re in control of the process, from start to finish.</p>
+                      <p className="text-gray-600">Buying a home is one of the biggest decisions you'll make, and you deserve to know where every dollar goes. Our app makes sure you're in control of the process, from start to finish.</p>
                     </div>
                   </div>
                 </div>
