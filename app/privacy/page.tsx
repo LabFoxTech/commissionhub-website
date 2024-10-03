@@ -57,7 +57,7 @@ export default function TermsAndConditions() {
                     <ul className="list-disc list-inside space-y-2">
                         <li><strong>Account:</strong> A unique account created for You to access our Service or parts of our Service.</li>
                         <li><strong>Affiliate:</strong> An entity that controls, is controlled by, or is under common control with a party.</li>
-                        <li><strong>Company:</strong> (referred to as "We", "Us", or "Our") refers to Commissionhub.</li>
+                        <li><strong>Company:</strong> {"(referred to as 'We', 'Us', or 'Our') refers to Commissionhub."}</li>
                         <li><strong>Cookies:</strong> Small files placed on Your device by a website, containing details of Your browsing history.</li>
                         <li><strong>Country:</strong> Refers to United States</li>
                         <li><strong>Device:</strong> Any device that can access the Service such as a computer, cellphone, or tablet.</li>
@@ -127,7 +127,7 @@ export default function TermsAndConditions() {
 
                 {/* Children's Privacy */}
                 <section className="mb-12">
-                    <h3 className="text-xl font-semibold mb-4">Children's Privacy</h3>
+                    <h3 className="text-xl font-semibold mb-4">{"Children's Privacy"}</h3>
                     <p>
                         Our Service does not address anyone under the age of 18. If We become aware that a child under 18 has provided Us with Personal Data, We will take steps to remove that information.
                     </p>
